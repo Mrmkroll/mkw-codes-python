@@ -1,0 +1,16 @@
+{
+    "WiiMoteInput" : "0x803457E2",
+    "PeripheralControllerID" : "0x8034583C",
+    "ClassicInput" : "0x80345842",
+    "GamecubeInput" : "0x80350580",
+
+    "ControllerData" : "0x809BD70C",
+    "RaceData" : "0x809BD728",
+    "RaceInfo" : "0x809BD730",
+    "PlayerHolder" : "0x809C18F8",
+    "MenuData" : "0x809C1E38",
+    "ItemHolder" : "0x809C3618",
+
+    "PlayerCount" : "0x809C38B8",
+    "OnlineFlag" : "0x809C38B9"
+}
